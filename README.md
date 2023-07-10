@@ -51,7 +51,3 @@ TER relies on Python's built-in modules:
 - **Tkinter**: Powers the GUI.
 - **os**: Enables interactions with the operating system, including renaming files and directories.
 - **re**: Helps with regular expressions and text replacements.
-
-## 💌 Support and Contribution
-
-Stumbled upon a bug or have an idea to improve TER? Feel free to raise an issue or contribute directly with a pull request. Your contributions are always appreciated!
