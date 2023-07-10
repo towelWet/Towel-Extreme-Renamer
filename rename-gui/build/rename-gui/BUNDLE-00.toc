@@ -1,3 +1,0 @@
-([('rename-gui',
-   '/Users/traope/Downloads/rename-gui/dist/rename-gui',
-   'EXECUTABLE')],)
