@@ -36,7 +36,11 @@ If you want to bundle TER into a standalone executable, you can use PyInstaller.
    pip install pyinstaller
    ```
 
-2. Navigate to the project directory. 
+2. Use the `cd` command to navigate to the directory containing the `rename-gui.py` file:
+
+   ```bash
+   cd /path_to_the_directory/rename-gui
+   ```
 
 3. Bundle `rename-gui.py` into a standalone executable using the command:
 
